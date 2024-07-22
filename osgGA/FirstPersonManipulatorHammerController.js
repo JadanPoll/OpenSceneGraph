@@ -1,0 +1,3 @@
+import OrbitManipulatorHammerController from 'osgGA/OrbitManipulatorHammerController';
+
+export default OrbitManipulatorHammerController;
